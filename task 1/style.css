@@ -1,0 +1,22 @@
+.card{
+	display:inline-block;
+	margin:10px;
+	border:2px solid black;
+	padding:20px;
+	width:250px;
+}
+.products h2{
+	color:#00008B;
+	font-family:Serif;
+}
+.card img{
+	width:100%;
+	height:auto;
+}
+
+.btn{
+	display:block;
+	background-color:green;
+	color:white;
+	margin-top:10px;
+}
