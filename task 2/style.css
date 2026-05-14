@@ -1,0 +1,80 @@
+#container{
+	/*display:inline-block;*/
+	margin:30px;
+	padding:10px;
+	width:600px;
+	position:relative;
+	border-radius:18px;
+	margin:20px auto;
+	box-shadow:0 4px 10px rgba(0,0,0,0.1);
+	
+}
+.card{
+	width:100%;
+	box-sizing:border-box;
+	border-radius:18px 18px;
+	
+}
+#travel{
+	position:absolute;
+	top:30px;
+	left:30px;
+	padding:5px;
+	width:80px;
+	box-sizing:border-box;
+	background-color:green;
+	color:white;
+	border-radius:5px;
+}
+#readMore{
+	position:absolute;
+	bottom:10px;
+	right:10px;
+	background-color:DarkGreen;
+	color:white;
+	padding:5px;
+	border-radius:5px;
+}
+#container2{
+	display:flex;
+	justify-Content:center;
+}
+.box{
+	margin:10px;
+	padding:10px;
+	width:300px;
+	position:relative;
+	border-radius:18px;
+	box-sizing:border-box;
+	box-shadow:0 4px 10px rgba(0,0,0,0.1);
+}
+.btn{
+	position:absolute;
+	bottom:10px;
+	right:10px;
+	padding:5px;
+	border-radius:5px;
+}
+.btn1{
+	position:absolute;
+	top:30px;
+	left:30px;
+	padding:5px;
+	border-radius:5px;
+}
+#beach, #read1{
+	background-color:#4169E1;
+	color:white;
+}
+#productive,#read2{
+	background-color:#9370DB;
+	color:white;
+}
+#lifestyle,#read3{
+	background-color:#FF4500;
+	color:white;
+}
+
+p{
+	color:grey;
+}
